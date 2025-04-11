@@ -1,5 +1,4 @@
-# Hacker Game
-
+# Hck The World
 A hacking simulation game where players manage virtual machines, discover other players' IPs, perform hacking attempts, and generate virtual coins over time.
 
 Site inspired by the old Hacker Experience, developed as a way to learn React and Node.js.
